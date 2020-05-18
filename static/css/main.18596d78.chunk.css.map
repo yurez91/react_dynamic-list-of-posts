@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAQA,8BACE,iBACF,CAEA,iBACE,kBACF","file":"main.18596d78.chunk.css","sourcesContent":[".heading {\n  text-align: center;\n}\n\n.btn-container {\n  text-align: center;\n}\n\n.form {\n  text-align: center;\n}\n\n.list-group-item {\n  margin-bottom: 20px;\n}\n"]}
